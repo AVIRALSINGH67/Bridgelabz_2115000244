@@ -320,3 +320,49 @@ Product.java
 Student.java
 Vehicle.java
 </details>
+
+## Task 12: DATE: 04-02-2025
+1. **this, static, final key words and instanceof operator Content**
+
+- **this keyword**: Learned about the use of the this keyword in Java, including its uses.
+-  **static keyword**: Studied the static keyword in Java, including its applications.
+- **final keyword**: Gained an understanding of the final keyword in Java, including its application.
+- **instanceof operator**: Learned about the instanceof operator in Java, including its use.
+
+2. **Practice**
+
+- **Problems**: Engaged in problem-solving exercises focusing on the application of the keywords.
+<details>
+<summary> File </summary>
+BankAccount.java
+Book.java
+Employee.java
+Patient.java
+Product.java
+Student.java
+Vehicle.java
+</details>
+
+## Task 13: DATE: 06-02-2025
+
+1. **Classes vs. Objects in Java**
+- **Classes**: Studied the concept of classes in Java, including their structure and purpose.
+- **Objects**: Learned about objects in Java, including their creation and usage.
+2. **Class Diagram, Object Diagrams, Sequence Diagrams**
+- **Class Diagram**: Created class diagrams to visualize the structure of classes.
+- **Object Diagram**: Created object diagrams to represent the state of objects.
+- **Sequence Diagram**: Created sequence diagrams to illustrate the interaction between objects.
+3. **Practice**
+- **Problems**: Engaged in problem-solving exercises focusing on the application of classes and objects.
+<details>
+<summary> File </summary>
+BankAndCustomers.java
+CompanyAndDepartments.java
+ECommerceSystem.java
+HospitalSystem.java
+LibraryAndBooks.java
+SchoolAndStudents.java
+UniversityManagementSystem.java
+UniversitySystem.java
+UML_Diagram
+</details>
