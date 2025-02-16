@@ -1,0 +1,4 @@
+Reading File Line by Line
+Hello World!
+This is an Example Line
+0101 1011
